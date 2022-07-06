@@ -39,3 +39,35 @@ h1 {
     font-weight: 600;
     margin-top: 1%;
 }
+
+.Donate-Today {
+    color: black;
+    width: 600px;
+    text-align: center;
+    align-self: center;
+    margin: 100px 400px 100px;
+}
+
+.Donate-Amount {
+    display: flex;
+}
+
+.Amount {
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    margin: 10px 10px 10px;
+    padding: 2%;
+}
+
+.Classy-Amount {
+    background-color: rgb(252, 224, 189);
+    width: 100%;
+    margin: 10px 10px 10px;
+    padding: 2%;
+    color: red;
+    border: 1px solid red;
+}
+
+hr {
+    width: 100%;
+}
