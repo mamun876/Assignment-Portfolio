@@ -58,15 +58,17 @@ h1 {
     width: 100%;
     margin: 10px 10px 10px;
     padding: 2%;
+    border-radius: 5px;
 }
 
-.Classy-Amount {
+.Standard-Amount {
     color: red;
     background-color: rgb(252, 224, 189);
     width: 100%;
     margin: 10px 10px 10px;
     padding: 2%;
     border: 1px solid red;
+    border-radius: 5px;
 }
 
 hr {
