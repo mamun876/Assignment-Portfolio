@@ -108,3 +108,33 @@ hr {
     padding: 10px;
     margin: 10px 0px 10px 10px;
 }
+
+.Contribute-Section {
+    display: flex;
+    align-items: center;
+
+}
+
+.half-width {
+    width: 100%;
+    margin: 60px 100px 20px
+}
+
+.half-width img {
+    width: 93%;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.contribute-Button {
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 1%;
+}
