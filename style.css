@@ -71,3 +71,40 @@ h1 {
 hr {
     width: 100%;
 }
+
+.Donate-Plan-Section {
+    width: 1200px;
+}
+
+.Donate-Plan-Area {
+    color: black;
+    width: 600px;
+    text-align: center;
+    align-self: center;
+    margin: 0px 400px 100px;
+}
+
+.Donate-Plan {
+    display: flex;
+}
+
+.Food-for-family {
+    width: 1200px;
+    background-color: rgb(228, 243, 255);
+    padding: 10px;
+    margin: 10px 10px 10px 100px;
+}
+
+.Shelter-for-family {
+    width: 1200px;
+    background-color: rgb(247, 223, 242);
+    padding: 10px;
+    margin: 10px;
+}
+
+.Education-for-child {
+    width: 1200px;
+    background-color: rgb(255, 241, 219);
+    padding: 10px;
+    margin: 10px 0px 10px 10px;
+}
